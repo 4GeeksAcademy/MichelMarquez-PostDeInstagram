@@ -1,0 +1,100 @@
+body {
+	background-color: black;
+	margin: 0;
+	padding: 0;
+}
+
+.post {
+	border: 1px solid rgb(255, 255, 255);
+	text-align: center;
+	margin: 70px 530px 45px 530px;
+	background-color: white;
+	padding-top: 100px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.fa-brands {
+	font-size: 48px;
+	align-items: center;
+	margin-top: -120px;
+	margin-left: 20px;
+}
+
+.fa-ellipsis-vertical {
+	font-size: 50px;
+	align-items: center;
+	margin-top: -120px;
+	margin-right: 20px;
+}
+
+.texto {
+	position: relative;
+	font-size: 23px;
+	margin-top: 100px;
+	margin-left: 4px;
+	top: -24px;
+	color: rgb(0, 0, 0);
+	width: 5px;
+	font-family: "Atkinson Hyperlegible Next", serif;
+}
+
+.texto1 {
+	position: relative;
+	margin-left: -80.5px;
+	font-size: 21px;
+	font-family: "Atkinson Hyperlegible Next", serif;
+}
+
+img {
+	margin-top: -65px;
+	margin-left: 530px;
+	width: 650.5px;
+	height: 500px;
+}
+
+.post-icons {
+	font-size: 50px;
+	border: 1px solid rgb(255, 255, 255);
+	text-align: center;
+	margin: -5px 530px 60px 530px;
+	background-color: white;
+	padding-top: 100px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.post-icons1 {
+	margin-top: -87px;
+	margin-left: 3px;
+	transform: scale(0.8);
+}
+
+.post-icons2 {
+	margin-top: -95px;
+	margin-right: 30px;
+	transform: scale(0.8);
+}
+
+.post-body {
+	border: 1px solid rgb(255, 255, 255);
+	text-align: center;
+	margin: -163px 530px 80px 530px;
+	background-color: white;
+	padding-top: 100px;
+}
+
+.texto2 {
+	position: relative;
+	margin-left: -200px;
+	font-size: 18px;
+}
+
+.texto3 {
+	position: relative;
+	margin-left: 20px;
+	font-size: 18px;
+	text-align: left;
+	margin-right: 3px;
+}
